@@ -1,0 +1,10 @@
+2023-09-10 10:15:32 INFO: Application started
+2023-09-10 10:16:45 WARNING: Low memory warning
+2023-09-10 10:17:30 ERROR: Failed to connect to database
+2023-09-10 10:18:22 INFO: User logged in
+2023-09-10 10:19:15 DEBUG: Processing item 1
+2023-09-10 10:20:05 ERROR: Invalid input received
+2023-09-10 10:21:18 WARNING: CPU usage high
+2023-09-10 10:22:30 INFO: Task completed successfully
+2023-09-10 10:23:45 DEBUG: Closing connection
+2023-09-10 10:24:50 INFO: Application shutdown
